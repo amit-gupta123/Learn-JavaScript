@@ -10,7 +10,7 @@
 // boolean -> true/false
 // undefined -> not defined yet
 // null -> defined but null
-// symbol -> 
+// symbol -> used for uniqueness
 
 
 // objects
